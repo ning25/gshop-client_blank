@@ -1,5 +1,7 @@
 # gshop-client
+
 !!!
+
 ## Project setup
 
 ```
@@ -25,5 +27,7 @@ npm run lint
 ```
 
 ### Customize configuration
+
+## day01
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
